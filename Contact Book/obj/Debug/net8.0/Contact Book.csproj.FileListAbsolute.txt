@@ -1,0 +1,17 @@
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Contact Book
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Contact Book.deps.json
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Contact Book.runtimeconfig.json
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Contact Book.dll
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Contact Book.pdb
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/bin/Debug/net8.0/Spectre.Console.dll
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.csproj.AssemblyReference.cache
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.GeneratedMSBuildEditorConfig.editorconfig
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.AssemblyInfoInputs.cache
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.AssemblyInfo.cs
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.csproj.CoreCompileInputs.cache
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.csproj.CopyComplete
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.dll
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/refint/Contact Book.dll
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.pdb
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/Contact Book.genruntimeconfig.cache
+/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/obj/Debug/net8.0/ref/Contact Book.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVZPRrV5Kmc6VtaqpN2qw0FLxVo8RDfr6G/bVXZQPQBaK/ISnmcbe3Qvja5BJzIJnlRHqSBWb4SmwouSUNRJCQ==",
+  "success": true,
+  "projectFilePath": "/home/asrorbek-abrorov/RiderProjects/Contact Book/Contact Book/Contact Book.csproj",
+  "expectedPackageFiles": [
+    "/home/asrorbek-abrorov/.nuget/packages/spectre.console/0.48.1-preview.0.5/spectre.console.0.48.1-preview.0.5.nupkg.sha512",
+    "/home/asrorbek-abrorov/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
